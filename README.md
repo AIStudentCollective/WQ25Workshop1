@@ -12,4 +12,4 @@ and
 npm run dev
 ```
 
-Enjoy :)! Please email us at aiscdavis@humansforai.com or DM us on Instagram @aiscdavis if you have any questions,
+Enjoy :)! Please email us at aiscdavis@humansforai.com or DM us on Instagram [@aiscdavis](instagram.com/aiscdavis) if you have any questions.
